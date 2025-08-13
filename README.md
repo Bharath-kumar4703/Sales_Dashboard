@@ -18,7 +18,6 @@ Amount	Total revenue from the sale.
 
 📂 Dataset file: Download CSV
 
-
 📷 Dashboard Preview
 
 ## 📌 Key Insights from Dashboard
