@@ -1,7 +1,10 @@
-📊 Sales Dashboard & Data Analysis
+# Sales Dashboard & Data Analysis
+
+## 📊 Project Overview
+
 This repository contains a Sales Dataset and an Interactive Excel Dashboard to analyze product sales trends, performance by salesperson, and revenue across locations.
 
-📁 Dataset Overview
+## 📁 Dataset Overview
 The dataset includes the following columns:
 
 Column Name	Description
@@ -15,20 +18,22 @@ Amount	Total revenue from the sale.
 
 📂 Dataset file: Download CSV
 
+
 📷 Dashboard Preview
 
-📌 Key Insights from Dashboard
-Total Sales Amount: ₹ 11,87,31,893 across 278 total transactions.
+## 📌 Key Insights from Dashboard
 
-Top Product: Laptops generated the highest sales value (₹ 4,87,10,117).
+✅ Total Sales Amount: ₹ 11,87,31,893 across 278 total transactions.
 
-Best Performing Month: July recorded the highest sales (₹ 1,81,22,063).
+✅ Top Product: Laptops generated the highest sales value (₹ 4,87,10,117).
 
-Top Location: Tenali contributed the most sales (₹ 4,10,54,876).
+✅ Best Performing Month: July recorded the highest sales (₹ 1,81,22,063).
 
-Seasonal Trend: Sales peaked in July and October, with noticeable drops in April and June.
+✅ Top Location: Tenali contributed the most sales (₹ 4,10,54,876).
 
-🛠 How to Use
+✅ Seasonal Trend: Sales peaked in July and October, with noticeable drops in April and June.
+
+## 🛠 How to Use
 Download the dataset from the link above.
 
 Open the Excel dashboard file in Microsoft Excel (Desktop recommended).
