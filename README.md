@@ -16,7 +16,7 @@ Price	Unit price of the product.
 Units	Quantity sold.
 Amount	Total revenue from the sale.
 
-📂 Dataset file: Download CSV
+📂 Dataset file: Download CSV (https://github.com/Bharath-kumar4703/Sales_Dashboard/blob/main/DashBoard%20Dataset.xlsx)
 
 📷 Dashboard Preview (https://github.com/Bharath-kumar4703/Sales_Dashboard/blob/main/Screenshot%202025-08-13%20211908.png)
 
